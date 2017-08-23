@@ -4,4 +4,4 @@
 
 1. [constructor 构造函数模式](./constructor.js)
 
-
+2. [module 模块模式](./module.js)
