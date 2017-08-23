@@ -13,3 +13,9 @@
 5. [singleton 单例模式](./singleton.js)
 
 6. [publish/subscribe 发布订阅模式](./pub-sub.js)
+
+## 测试
+
+```bash
+node <fileName>
+```
