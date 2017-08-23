@@ -9,3 +9,7 @@
 3. [factory 工厂模式](./factory.js)
 
 4. [mixin 混合模式](./mixin.js)
+
+5. [singleton 单例模式](./singleton.js)
+
+6. [publish/subscribe 发布订阅模式](./pub-sub.js)
