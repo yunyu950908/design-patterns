@@ -1,2 +1,7 @@
 # design-patterns
-常见的设计模式
+
+## javascript 常见设计模式
+
+1. [constructor 构造函数模式](./constructor.js)
+
+
